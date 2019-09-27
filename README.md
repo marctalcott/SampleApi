@@ -10,5 +10,13 @@ Set your connection string your SampleApi/AppSettings.json file
 This uses dependency injection to inject your objects into classes as needed.
 AutoMapper is used to map EF objects to DTO objects (you don't want to pass EF object to your API!).
 
+If you update your database, you'll need to update your Data project. To do that, open a command window in your Data project and run this command: (fix your password as needed)
+
+dotnet ef dbcontext scaffold "server=localhost;database=SampleDb;user=sa;password=Yourpassword;” "Microsoft.EntityFrameworkCore.SqlServer" -v -f --schema dbo
+
+
+Also read up on proper REST endpoint creation: https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf
+
+
 Cheers,
 Marc
