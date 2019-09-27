@@ -12,6 +12,10 @@ AutoMapper is used to map EF objects to DTO objects (you don't want to pass EF o
 
 If you update your database, you'll need to update your Data project. To do that, open a command window in your Data project and run this command: (fix your password as needed)
 
+ *****  Important!!! ******************** 
+ When you run this command it adds this connection string into your Data/SampleDbContext file. REMOVE IT IMMEDIATELY and don't ever commit your code with that in your file. You don't need it there because your connection string is setup in your API project, but this is just what the scaffold command does. I don't know of an option to prevent it. but there may be one by now.
+ ***************************************
+ 
 dotnet ef dbcontext scaffold "server=localhost;database=SampleDb;user=sa;password=Yourpassword;” "Microsoft.EntityFrameworkCore.SqlServer" -v -f --schema dbo
 
 
