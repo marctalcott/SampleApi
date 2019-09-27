@@ -1,0 +1,11 @@
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/bin/Debug/netcoreapp2.2/SampleSolution.Data.deps.json
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/bin/Debug/netcoreapp2.2/SampleSolution.Data.dll
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/bin/Debug/netcoreapp2.2/SampleSolution.Data.pdb
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/obj/Debug/netcoreapp2.2/SampleSolution.Data.csprojAssemblyReference.cache
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/obj/Debug/netcoreapp2.2/SampleSolution.Data.csproj.CoreCompileInputs.cache
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/obj/Debug/netcoreapp2.2/SampleSolution.Data.AssemblyInfoInputs.cache
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/obj/Debug/netcoreapp2.2/SampleSolution.Data.AssemblyInfo.cs
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/obj/Debug/netcoreapp2.2/SampleSolution.Data.dll
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/obj/Debug/netcoreapp2.2/SampleSolution.Data.pdb
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/bin/Debug/netcoreapp2.2/SampleSolution.Data.runtimeconfig.json
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/bin/Debug/netcoreapp2.2/SampleSolution.Data.runtimeconfig.dev.json

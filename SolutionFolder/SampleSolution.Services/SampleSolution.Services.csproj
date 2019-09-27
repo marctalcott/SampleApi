@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SampleSolution.DataAccess\SampleSolution.DataAccess.csproj" />
+      <ProjectReference Include="..\SampleSolution.Data\SampleSolution.Data.csproj" />
+      <ProjectReference Include="..\SampleSolution.DTO\SampleSolution.DTO.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="AutoMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005">
+        <HintPath>..\..\..\..\.nuget\packages\automapper\9.0.0\lib\netstandard2.0\AutoMapper.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

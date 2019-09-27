@@ -1,0 +1,29 @@
+ -- This will create the DB you need
+ -- After you create your DB you'll need 
+ -- to update the AppSettings file in the SampleApi project to point to your db
+ -- and have the right password, etc.
+ 
+CREATE TABLE [dbo].[BankBranch]
+(
+    [Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY, -- Primary Key column
+    [BranchName] NVARCHAR(50) NOT NULL,
+    [BranchAddress1] NVARCHAR(50) NOT NULL,
+    [BranchAddress2] NVARCHAR(50) NOT NULL,
+    [City] NVARCHAR(50) NOT NULL,
+    [State] NVARCHAR(50) NOT NULL,
+    [Zip] NVARCHAR(50) NOT NULL
+   
+);
+GO
+CREATE TABLE [dbo].[Employee]
+(
+    [Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY, -- Primary Key column
+    [BankBranchId] INT NOT NULL,
+    [FirstName] NVARCHAR(50) NOT NULL,
+    [LastName] NVARCHAR(50) NOT NULL,
+    [DateHired] datetime NOT NULL,
+    [EndDate] datetime NULL
+);
+
+ALTER TABLE [dbo].[Employee]  WITH CHECK ADD  CONSTRAINT [FK_Employee_BankBranch] FOREIGN KEY([BankBranchId])
+REFERENCES [dbo].[BankBranch] ([ID])

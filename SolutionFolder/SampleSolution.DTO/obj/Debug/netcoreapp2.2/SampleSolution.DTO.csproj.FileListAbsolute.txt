@@ -1,0 +1,8 @@
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/bin/Debug/netcoreapp2.2/SampleSolution.DTO.deps.json
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/bin/Debug/netcoreapp2.2/SampleSolution.DTO.dll
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/bin/Debug/netcoreapp2.2/SampleSolution.DTO.pdb
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/obj/Debug/netcoreapp2.2/SampleSolution.DTO.csproj.CoreCompileInputs.cache
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/obj/Debug/netcoreapp2.2/SampleSolution.DTO.AssemblyInfoInputs.cache
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/obj/Debug/netcoreapp2.2/SampleSolution.DTO.AssemblyInfo.cs
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/obj/Debug/netcoreapp2.2/SampleSolution.DTO.dll
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/obj/Debug/netcoreapp2.2/SampleSolution.DTO.pdb

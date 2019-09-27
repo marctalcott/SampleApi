@@ -1,0 +1,14 @@
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/bin/Debug/netcoreapp2.2/SampleSolution.DataAccess.deps.json
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/bin/Debug/netcoreapp2.2/SampleSolution.DataAccess.dll
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/bin/Debug/netcoreapp2.2/SampleSolution.DataAccess.pdb
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/bin/Debug/netcoreapp2.2/SampleSolution.Data.dll
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/bin/Debug/netcoreapp2.2/SampleSolution.DTO.dll
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/bin/Debug/netcoreapp2.2/SampleSolution.Data.pdb
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/bin/Debug/netcoreapp2.2/SampleSolution.DTO.pdb
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/obj/Debug/netcoreapp2.2/SampleSolution.DataAccess.csprojAssemblyReference.cache
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/obj/Debug/netcoreapp2.2/SampleSolution.DataAccess.csproj.CoreCompileInputs.cache
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/obj/Debug/netcoreapp2.2/SampleSolution.DataAccess.AssemblyInfoInputs.cache
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/obj/Debug/netcoreapp2.2/SampleSolution.DataAccess.AssemblyInfo.cs
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/obj/Debug/netcoreapp2.2/SampleSolution.DataAccess.csproj.CopyComplete
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/obj/Debug/netcoreapp2.2/SampleSolution.DataAccess.dll
+/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/obj/Debug/netcoreapp2.2/SampleSolution.DataAccess.pdb
