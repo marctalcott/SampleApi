@@ -3618,11 +3618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/SampleSolution.DataAccess.csproj",
+      "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DataAccess/SampleSolution.DataAccess.csproj",
       "projectName": "SampleSolution.DataAccess",
-      "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/SampleSolution.DataAccess.csproj",
+      "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DataAccess/SampleSolution.DataAccess.csproj",
       "packagesPath": "/Users/marctalcott/.nuget/packages/",
-      "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DataAccess/obj/",
+      "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DataAccess/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -3639,11 +3639,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/SampleSolution.Data.csproj": {
-              "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/SampleSolution.Data.csproj"
+            "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Data/SampleSolution.Data.csproj": {
+              "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Data/SampleSolution.Data.csproj"
             },
-            "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/SampleSolution.DTO.csproj": {
-              "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/SampleSolution.DTO.csproj"
+            "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DTO/SampleSolution.DTO.csproj": {
+              "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DTO/SampleSolution.DTO.csproj"
             }
           }
         }

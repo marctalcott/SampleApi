@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.SampleAPI/SampleSolution.SampleAPI.csproj",
+    "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.SampleAPI/SampleSolution.SampleAPI.csproj",
     "projectName": "SampleSolution.SampleAPI",
-    "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.SampleAPI/SampleSolution.SampleAPI.csproj",
-    "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.SampleAPI/obj/",
+    "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.SampleAPI/SampleSolution.SampleAPI.csproj",
+    "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.SampleAPI/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -18,14 +18,14 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/SampleSolution.Data.csproj": {
-            "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/SampleSolution.Data.csproj"
+          "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Data/SampleSolution.Data.csproj": {
+            "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Data/SampleSolution.Data.csproj"
           },
-          "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/SampleSolution.DTO.csproj": {
-            "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/SampleSolution.DTO.csproj"
+          "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DTO/SampleSolution.DTO.csproj": {
+            "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DTO/SampleSolution.DTO.csproj"
           },
-          "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Services/SampleSolution.Services.csproj": {
-            "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Services/SampleSolution.Services.csproj"
+          "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Services/SampleSolution.Services.csproj": {
+            "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Services/SampleSolution.Services.csproj"
           }
         }
       }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/Readme/Readme.csproj",
+      "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/Readme/Readme.csproj",
       "projectName": "Readme",
-      "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/Readme/Readme.csproj",
+      "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/Readme/Readme.csproj",
       "packagesPath": "/Users/marctalcott/.nuget/packages/",
-      "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/Readme/obj/",
+      "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/Readme/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

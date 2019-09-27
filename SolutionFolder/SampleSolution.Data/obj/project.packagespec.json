@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/SampleSolution.Data.csproj",
+    "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Data/SampleSolution.Data.csproj",
     "projectName": "SampleSolution.Data",
-    "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/SampleSolution.Data.csproj",
-    "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.Data/obj/",
+    "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Data/SampleSolution.Data.csproj",
+    "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.Data/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

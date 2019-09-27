@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/SampleSolution.DTO.csproj",
+    "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DTO/SampleSolution.DTO.csproj",
     "projectName": "SampleSolution.DTO",
-    "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/SampleSolution.DTO.csproj",
-    "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleSolution.DTO/obj/",
+    "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DTO/SampleSolution.DTO.csproj",
+    "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/SampleSolution.DTO/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

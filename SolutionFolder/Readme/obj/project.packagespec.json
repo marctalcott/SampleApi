@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/Readme/Readme.csproj",
+    "projectUniqueName": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/Readme/Readme.csproj",
     "projectName": "Readme",
-    "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/Readme/Readme.csproj",
-    "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/Readme/obj/",
+    "projectPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/Readme/Readme.csproj",
+    "outputPath": "/Users/marctalcott/A_Marc/Projects/SampleSolution/SampleApi/SolutionFolder/Readme/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
